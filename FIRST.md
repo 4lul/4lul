@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @4lul
-- 👀 I’m interested in linux and python
-- 🌱 I’m currently learning linux and python
+- 👀 I’m interested in linux & python
+- 🌱 I’m currently learning linux & python
 
 
 <!---
